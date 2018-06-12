@@ -1,0 +1,51 @@
+Non feeling well,feeling_sick
+I am sick,feeling_sick
+I am ill,feeling_sick
+Feeling ill,feeling_sick
+Down with,feeling_sick
+under the weather,feeling_sick
+feeling awful,feeling_sick
+unwell,feeling_sick
+not good,feeling_sick
+unhealthy,feeling_sick
+weak,feeling_sick
+sick as a dog,feeling_sick
+Feeling no pain,feeling_sick
+sickened,feeling_sick
+worn-out,feeling_sick
+in good physical condition,feeling_sick
+wholesome,feeling_sick
+able-bodied,feeling_sick
+feverish,feeling_sick
+impaired,feeling_sick
+in poor health,feeling_sick
+sickly,feeling_sick
+under medication,feeling_sick
+not so good,feeling_sick
+run down,feeling_sick
+I've caught a bug,feeling_sick
+I'm still not feeling well,feeling_sick
+getting worse,feeling_sick
+Feeling great,feeling_well
+doing well,feeling_well
+doing great,feeling_well
+I am fine,feeling_well
+healthy,feeling_well
+in good shape,feeling_well
+strong,feeling_well
+perfect,feeling_well
+good,feeling_well
+goodbye,goodbye
+bye,goodbye
+see you later,goodbye
+I will be back,goodbye
+have a nice day,goodbye
+see you,goodbye
+see you soon,goodbye
+adios,goodbye
+bye-bye,goodbye
+hasta la vista,goodbye
+I might have a cold,Have_Cold
+Do I have a cold?,Have_Cold
+caught a virus,Have_Cold
+I am catching a cold,Have_Cold
